@@ -12,3 +12,4 @@ print(census_income.metadata)
   
 # variable information 
 print(census_income.variables) 
+ 
